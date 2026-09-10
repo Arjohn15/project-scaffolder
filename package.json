@@ -1,0 +1,16 @@
+{
+  "name": "project-scaffolder",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "My personal project scaffolding toolkit",
+  "bin": {
+    "my-scaffold": "./run-plop.js"
+  },
+  "scripts": {
+    "plop": "plop"
+  },
+  "devDependencies": {
+    "plop": "^4.0.5"
+  }
+}
